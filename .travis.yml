@@ -6,7 +6,6 @@ rvm:
 - 2.0.0
 - 2.1.0
 - 2.1.3
-- jruby
 os:
 - linux
 - osx
@@ -17,6 +16,4 @@ matrix:
   - rvm: 1.9.2
     os: osx
   - rvm: 2.1.0
-    os: osx
-  - rvm: jruby
     os: osx
