@@ -131,5 +131,6 @@ rails server -p 3023
 </pre>
 
 #### Loading app from browser
+[http://localhost:3023/]
 
 ![alt tag](https://github.com/sidlinux22/ToDoAPP/blob/master/log/image.png)
